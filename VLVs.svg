@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="VLVs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.829812"
+     inkscape:cx="192.64274"
+     inkscape:cy="314.23993"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1072"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="VLV_AllClosed" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="레이어 5">
+    <g
+       id="VLV_RightOpened"
+       transform="matrix(-1,0,0,1,72.297957,3.6148997)">
+      <path
+         style="fill:#dc0c0c;fill-opacity:1;stroke-width:0.264583"
+         d="m 25.055423,105.97827 0.102246,12.16712 11.04243,-5.9302 z"
+         id="path1592-5-1-5-0" />
+      <path
+         style="fill:#bdb7b7;fill-opacity:1;stroke-width:0.264583"
+         d="m 47.242532,105.97827 -0.102246,12.16712 -11.04243,-5.9302 z"
+         id="path1592-3-8-0-7-2" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="레이어 4">
+    <g
+       id="VLV_AllOpened">
+      <g
+         id="g1708">
+        <path
+           style="fill:#dc0c0c;fill-opacity:1;stroke-width:0.264583"
+           d="m 25.489211,63.033282 0.102246,12.167126 11.04243,-5.930196 z"
+           id="path1592-5" />
+      </g>
+      <path
+         style="fill:#dc0c0c;fill-opacity:1;stroke-width:0.264583"
+         d="M 47.67632,63.033283 47.574074,75.200409 36.531644,69.270213 Z"
+         id="path1592-3-8" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="레이어 2">
+    <g
+       id="VLV_LeftOpened"
+       transform="translate(-0.28919183,-18.652873)">
+      <path
+         style="fill:#dc0c0c;fill-opacity:1;stroke-width:0.264583"
+         d="m 25.055423,105.97827 0.102246,12.16712 11.04243,-5.9302 z"
+         id="path1592-5-1-5" />
+      <path
+         style="fill:#bdb7b7;fill-opacity:1;stroke-width:0.264583"
+         d="m 47.242532,105.97827 -0.102246,12.16712 -11.04243,-5.9302 z"
+         id="path1592-3-8-0-7" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="레이어 3">
+    <g
+       id="VLV_AllClosed"
+       inkscape:label="g1705"
+       inkscape:groupmode="layer">
+      <path
+         style="fill:#bdb7b7;fill-opacity:1;stroke-width:0.264583"
+         d="m 25.663432,40.182186 0.102246,12.167126 11.04243,-5.930196 z"
+         id="path1592" />
+      <path
+         style="fill:#bdb7b7;fill-opacity:1;stroke-width:0.264583"
+         d="M 47.850541,40.182187 47.748295,52.349313 36.705865,46.419117 Z"
+         id="path1592-3" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="g1706" />
+  </g>
+</svg>
